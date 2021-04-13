@@ -27,7 +27,6 @@
             android:layout_height="40dp"
             android:hint="Write here!!"
             android:layout_gravity="bottom"
-
             />
 
 </FrameLayout>
