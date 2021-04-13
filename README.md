@@ -121,6 +121,6 @@ First Activity
 
 Second Activity + Fragment
 
-![](First.png)
+![](Second.png)
 
 
