@@ -24,7 +24,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="40dp"
-            android:text="Write here!"
+            android:text="Write here!!"
             android:layout_gravity="bottom"
             />
 
