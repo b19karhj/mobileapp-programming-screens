@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent( MainActivity.this, SecondActivity.class);
-                intent.putExtra("name", "Hej");
+                intent.putExtra("name", "HEJ!!!");
                 startActivity(intent);
 
 
